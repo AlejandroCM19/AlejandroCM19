@@ -41,24 +41,7 @@ Me interesa especialmente:
 
 ### 🌐 Página web para distribuidora
 - Diseño de sitio web completo
-- Secciones: Inicio, Casos de éxito, Sobre nosotros, Contacto
 - Enfoque en presentación profesional
-
----
-
-## 📈 Actualmente estoy trabajando en:
-
-- 🔧 Mejorar mis proyectos en GitHub
-- 📚 Preparación para certificaciones (NAKIVO, ciberseguridad)
-- 🚀 Crear contenido (YouTube: gameplays + historias)
-
----
-
-## 📫 Contacto
-
-- 📧 Email: (tu correo aquí)
-- 💼 LinkedIn: (tu perfil aquí)
-- 🌐 Portafolio: (si haces uno, aquí)
 
 ---
 
