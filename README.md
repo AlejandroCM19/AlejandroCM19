@@ -16,7 +16,7 @@ Me interesa especialmente:
 - 💻 Desarrollo web (HTML, CSS, JS, Odoo)
 - 🧪 Laboratorios en Linux y entornos virtualizados
 - 📊 Soluciones tecnológicas para negocios
-
+<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right" />
 ---
 
 ## 🛠️ Tecnologías y herramientas
@@ -52,3 +52,4 @@ Me gusta experimentar con tecnología, desde servidores hasta emulación de cons
 ---
 
 ⭐ *Gracias por visitar mi perfil*
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
