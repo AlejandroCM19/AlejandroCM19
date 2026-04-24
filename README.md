@@ -1,57 +1,42 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
-
-# 👋 Hola, soy Alejandro Cruz
-
-🎓 Ingeniero en Tecnologías de la Información  
-💡 Apasionado por la tecnología, redes, ciberseguridad y desarrollo web  
-🚀 En constante aprendizaje y creando proyectos prácticos
+# 👋 Hi, I'm Alejandro Cruz
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=🎓+IT+Engineer...;Tenho+21+anos+...;Estudante+de+Ciência+da+Computação..."/>
+🎓 IT Engineer  
+💡 Passionate about technology, networking, cybersecurity, and web development  
+🚀 Always learning and building practical projects  
 
 ---
 
-## 🧠 Sobre mí
+## 🧠 About Me
 
-Soy un entusiasta de la tecnología enfocado en aprender haciendo.  
-Me interesa especialmente:
+I am a technology enthusiast focused on learning by doing.  
+I am especially interested in:
 
-- 🔐 Ciberseguridad (análisis de vulnerabilidades, OpenVAS, labs)
-- 🌐 Redes (WiFi, infraestructura, soluciones empresariales)
-- 💻 Desarrollo web (HTML, CSS, JS, Odoo)
-- 🧪 Laboratorios en Linux y entornos virtualizados
-- 📊 Soluciones tecnológicas para negocios
+- 🔐 Cybersecurity (vulnerability analysis, OpenVAS, labs)  
+- 🌐 Networking (WiFi, infrastructure, business solutions)  
+- 💻 Web development (HTML, CSS, JS, Odoo)  
+- 🧪 Linux labs and virtualized environments  
+- 📊 Technology solutions for businesses  
+
 <img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right" />
----
-
-## 🛠️ Tecnologías y herramientas
-
-- 💻 Lenguajes: HTML, CSS, JavaScript  
-- ⚙️ Herramientas: Git, GitHub, OpenVAS  
-- 🐧 Sistemas: Linux, Windows  
-- 🗄️ Otros: Odoo, Virtualización, Redes WiFi  
 
 ---
 
-## 📂 Proyectos destacados
+## 🛠️ Technologies and Tools
 
-### 🔍 Análisis de vulnerabilidades con OpenVAS
-- Implementación de escaneo de seguridad
-- Identificación de riesgos
-- Reportes de vulnerabilidades
-
-📎 Próximamente más detalles...
+- 💻 Languages: HTML, CSS, JavaScript  
+- ⚙️ Tools: Git, GitHub, OpenVAS  
+- 🐧 Systems: Linux, Windows  
+- 🗄️ Others: Odoo, Virtualization, WiFi Networks  
 
 ---
 
-### 🌐 Página web para distribuidora
-- Diseño de sitio web completo
-- Enfoque en presentación profesional
+## ⚡ Fun Fact
+
+I enjoy experimenting with technology, from servers to console emulation 🎮  
 
 ---
 
-## ⚡ Dato curioso
+⭐ *Thanks for visiting my profile*  
 
-Me gusta experimentar con tecnología, desde servidores hasta emulación de consolas 🎮
-
----
-
-⭐ *Gracias por visitar mi perfil*
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
