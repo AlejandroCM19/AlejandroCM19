@@ -16,7 +16,7 @@ I am especially interested in:
 - 🧪 Linux labs and virtualized environments  
 - 📊 Technology solutions for businesses  
 
-<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right" />
+<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="25%" align="right" />
 
 ---
 
