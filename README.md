@@ -1,10 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
-# 👋 Hi, I'm Alejandro Cruz
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=🎓+IT+Engineer...;Tenho+21+anos+...;Estudante+de+Ciência+da+Computação..."/>
-🎓 IT Engineer  
-💡 Passionate about technology, networking, cybersecurity, and web development  
-🚀 Always learning and building practical projects  
-
+## 👋 Hi, I'm Alejandro Cruz
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=🎓+IT+Engineer+...;💡+Passionate+about+technology+...;🚀+Always+learning+and+building+practical+projects+..."/>
 ---
 
 ## 🧠 About Me
